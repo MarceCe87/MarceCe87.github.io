@@ -26,5 +26,33 @@
 		"price": 2500,
 		"stock": 2,
 		"image": "https://www.tamashiinations.com/images/product_img/826/4_4j7GBHOoDerb.jpg"
+	},
+	{
+		"id": "5",
+		"name": "＜SIDE MS＞GUNDAM AERIAL ver.A.N.I.M.E.",
+		"price": 3200,
+		"stock": 2,
+		"image": "https://www.tamashiinations.com/images/product_img/834/1_LxCR7ICYhGGr.jpg"
+	},
+	{
+		"id": "6",
+		"name": "Buzz Lightyear S.H.Figuarts",
+		"price": 1500,
+		"stock": 3,
+		"image": "https://www.tamashiinations.com/images/product_img/821/4_MsQumsuQkWut.jpg"
+	},
+	{
+		"id": "7",
+		"name": "Zenitsu Agatsuma Thunderclap and Flash",
+		"price": 1700,
+		"stock": 5,
+		"image": "https://www.tamashiinations.com/images/product_img/789/1_rUK1iJxvW11L.jpg"
+	},
+	{
+		"id": "8",
+		"name": "MS-06V-6 ZAKU TANK GREEN MACAQUE",
+		"price": 3000,
+		"stock": 1,
+		"image": "https://www.tamashiinations.com/images/product_img/783/1_75ynKNx7iKz7.jpg"
 	}
 ]
