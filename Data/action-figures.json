@@ -54,5 +54,12 @@
 		"price": 3000,
 		"stock": 1,
 		"image": "https://www.tamashiinations.com/images/product_img/783/1_75ynKNx7iKz7.jpg"
+	},
+	{
+		"id": "8",
+		"name": "SATORU GOJO‐JUJUTSUKAISEN 0‐",
+		"price": 900,
+		"stock": 15,
+		"image": "https://www.tamashiinations.com/images/product_img/811/1_FWawyBCKHFXH.jpg"
 	}
 ]
