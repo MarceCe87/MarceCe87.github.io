@@ -2,6 +2,7 @@
 	{
 		"id": "1",
 		"name": "Super Saiyan 4 Vegeta, as seen in Dragon Ball GT",
+		"brand": "Bandai",
 		"price": 1400,
 		"stock": 10,
 		"image": "https://www.tamashiinations.com/images/product_img/824/1_jv7Akil4bKsG.jpg"
@@ -9,6 +10,7 @@
 	{
 		"id": "2",
 		"name": "ARIES SHION(SURPLICE) & THE POPE SET",
+		"brand": "Bandai",
 		"price": 4000,
 		"stock": 10,
 		"image": "https://www.tamashiinations.com/images/product_img/484/1_nQHXXWIl33yh.jpg"
@@ -16,6 +18,7 @@
 	{
 		"id": "3",
 		"name": "PHOENIX IKKI [NEW BRONZE CLOTH]",
+		"brand": "Bandai",
 		"price": 4000,
 		"stock": 5,
 		"image": "https://www.tamashiinations.com/images/product_img/442/1_1fNaQmp0js3k.jpg"
@@ -23,6 +26,7 @@
 	{
 		"id": "4",
 		"name": "Monkey D. Luffy from -GEAR4",
+		"brand": "Bandai",
 		"price": 2500,
 		"stock": 2,
 		"image": "https://www.tamashiinations.com/images/product_img/826/4_4j7GBHOoDerb.jpg"
@@ -30,6 +34,7 @@
 	{
 		"id": "5",
 		"name": "＜SIDE MS＞GUNDAM AERIAL ver.A.N.I.M.E.",
+		"brand": "Bandai",
 		"price": 3200,
 		"stock": 2,
 		"image": "https://www.tamashiinations.com/images/product_img/834/1_LxCR7ICYhGGr.jpg"
@@ -37,6 +42,7 @@
 	{
 		"id": "6",
 		"name": "Buzz Lightyear S.H.Figuarts",
+		"brand": "Bandai",
 		"price": 1500,
 		"stock": 3,
 		"image": "https://www.tamashiinations.com/images/product_img/821/4_MsQumsuQkWut.jpg"
@@ -44,6 +50,7 @@
 	{
 		"id": "7",
 		"name": "Zenitsu Agatsuma Thunderclap and Flash",
+		"brand": "Bandai",
 		"price": 1700,
 		"stock": 5,
 		"image": "https://www.tamashiinations.com/images/product_img/789/1_rUK1iJxvW11L.jpg"
@@ -51,6 +58,7 @@
 	{
 		"id": "8",
 		"name": "MS-06V-6 ZAKU TANK GREEN MACAQUE",
+		"brand": "Bandai",
 		"price": 3000,
 		"stock": 1,
 		"image": "https://www.tamashiinations.com/images/product_img/783/1_75ynKNx7iKz7.jpg"
@@ -58,6 +66,7 @@
 	{
 		"id": "9",
 		"name": "SATORU GOJO‐JUJUTSUKAISEN 0‐",
+		"brand": "Bandai",
 		"price": 900,
 		"stock": 15,
 		"image": "https://www.tamashiinations.com/images/product_img/811/1_FWawyBCKHFXH.jpg"
@@ -65,6 +74,7 @@
 	{
 		"id": "10",
 		"name": "AQUARIUS CAMUS<REVIVAL Ver.>",
+		"brand": "Bandai",
 		"price": 4500,
 		"stock": 1,
 		"image": "https://www.tamashiinations.com/images/product_img/815/1_fjIkv9cOSp2G.jpg"
@@ -72,6 +82,7 @@
 	{
 		"id": "11",
 		"name": "Panda - JUJUTSU KAISEN",
+		"brand": "Bandai",
 		"price": 850,
 		"stock": 15,
 		"image": "https://www.tamashiinations.com/images/product_img/772/1_BvBseGdCpplo.jpg"
@@ -80,6 +91,7 @@
 	{
 		"id": "12",
 		"name": "INOSUKE HASHIBIRA - Kimetsu no Yaiba",
+		"brand": "Bandai",
 		"price": 900,
 		"stock": 10,
 		"image": "https://www.tamashiinations.com/images/product_img/376/1_VTcjXOOW8RZg.jpg"
