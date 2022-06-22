@@ -8,17 +8,17 @@
 	},
 	{
 		"id": "2",
-		"name": "ONE PIECE MAXIMATIC THE TRAFALGAR.LAW Ⅱ",
-		"price": 1200,
+		"name": "ARIES SHION(SURPLICE) & THE POPE SET",
+		"price": 4000,
 		"stock": 10,
-		"image": "https://www.banpresto.jp/prize/detail_img/18469_prize_item_img1.jpg"
+		"image": "https://www.tamashiinations.com/images/product_img/484/1_nQHXXWIl33yh.jpg"
 	},
 	{
 		"id": "3",
-		"name": "ONE PIECE DXF～THE GRANDLINE SERIES",
-		"price": 1000,
+		"name": "PHOENIX IKKI [NEW BRONZE CLOTH]",
+		"price": 4000,
 		"stock": 5,
-		"image": "https://www.banpresto.jp/prize/detail_img/18743_prize_item_img1.jpg"
+		"image": "https://www.tamashiinations.com/images/product_img/442/1_1fNaQmp0js3k.jpg"
 	},
 	{
 		"id": "4",
@@ -61,5 +61,28 @@
 		"price": 900,
 		"stock": 15,
 		"image": "https://www.tamashiinations.com/images/product_img/811/1_FWawyBCKHFXH.jpg"
+	},
+	{
+		"id": "10",
+		"name": "AQUARIUS CAMUS<REVIVAL Ver.>",
+		"price": 4500,
+		"stock": 1,
+		"image": "https://www.tamashiinations.com/images/product_img/815/1_fjIkv9cOSp2G.jpg"
+	},
+	{
+		"id": "11",
+		"name": "Panda - JUJUTSU KAISEN",
+		"price": 850,
+		"stock": 15,
+		"image": "https://www.tamashiinations.com/images/product_img/772/1_BvBseGdCpplo.jpg"
 	}
+	,
+	{
+		"id": "12",
+		"name": "INOSUKE HASHIBIRA - Kimetsu no Yaiba",
+		"price": 900,
+		"stock": 10,
+		"image": "https://www.tamashiinations.com/images/product_img/376/1_VTcjXOOW8RZg.jpg"
+	}
+	
 ]
